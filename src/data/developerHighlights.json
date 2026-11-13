@@ -1,0 +1,50 @@
+[
+  {
+    "title": {
+      "uk": "Frontend-розробка",
+      "en": "Frontend Development"
+    },
+    "items": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "order": 1
+  },
+  {
+    "title": {
+      "uk": "Backend",
+      "en": "Backend Ready"
+    },
+    "items": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "order": 2
+  },
+  {
+    "title": {
+      "uk": "Веброзробка",
+      "en": "Web Development"
+    },
+    "items": [
+      "REST API",
+      "Responsive UI",
+      "State Management"
+    ],
+    "order": 3
+  },
+  {
+    "title": {
+      "uk": "Інженерія",
+      "en": "Engineering"
+    },
+    "items": [
+      "Performance",
+      "Reusable Components",
+      "Clean Architecture"
+    ],
+    "order": 4
+  }
+]

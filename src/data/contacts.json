@@ -1,0 +1,33 @@
+{
+  "email": "valeriia.kravchuk.ua@gmail.com",
+  "telegram": {
+    "label": "Telegram",
+    "url": "https://t.me/lera1003"
+  },
+  "linkedin": {
+    "label": "LinkedIn",
+    "url": "https://linkedin.com/in/valeriia-kravchuk-ua/"
+  },
+  "github": {
+    "label": "GitHub",
+    "url": "https://github.com/valeriia-kravchuk-ua"
+  },
+  "cv": {
+    "label": {
+      "uk": "Завантажити CV",
+      "en": "Download CV"
+    },
+    "url": null
+  },
+  "availabilityText": {
+    "uk": "Зараз відкрита до нових можливостей, freelance-проєктів і співпраці.",
+    "en": "I'm currently open to new opportunities, freelance projects, and collaborations."
+  },
+  "footer": {
+    "copyright": "© 2026 Valeriia Kravchuk",
+    "credit": {
+      "uk": "Дизайн і розробка — Valeriia Kravchuk",
+      "en": "Designed & Developed by Valeriia Kravchuk"
+    }
+  }
+}

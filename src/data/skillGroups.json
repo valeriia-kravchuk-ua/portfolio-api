@@ -1,0 +1,91 @@
+[
+  {
+    "title": {
+      "uk": "Frontend",
+      "en": "Frontend"
+    },
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "Tailwind CSS"
+    ],
+    "order": 1
+  },
+  {
+    "title": {
+      "uk": "Backend",
+      "en": "Backend"
+    },
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs",
+      "Authentication",
+      "Validation"
+    ],
+    "order": 2
+  },
+  {
+    "title": {
+      "uk": "Інструменти",
+      "en": "Tools"
+    },
+    "skills": [
+      "Git",
+      "Vite",
+      "npm",
+      "Figma",
+      "Postman"
+    ],
+    "order": 3
+  },
+  {
+    "title": {
+      "uk": "Бібліотеки",
+      "en": "Libraries"
+    },
+    "skills": [
+      "TanStack Query",
+      "Redux Toolkit",
+      "React Router",
+      "Axios",
+      "Formik"
+    ],
+    "order": 4
+  },
+  {
+    "title": {
+      "uk": "Інтерфейс",
+      "en": "UI"
+    },
+    "skills": [
+      "Responsive Design",
+      "CSS Grid",
+      "Flexbox",
+      "Material UI",
+      "Tailwind CSS"
+    ],
+    "order": 5
+  },
+  {
+    "title": {
+      "uk": "Робочий процес",
+      "en": "Workflow"
+    },
+    "skills": [
+      "Reusable Components",
+      "Clean Architecture",
+      "Performance Optimization",
+      "Code Splitting",
+      "Lazy Loading"
+    ],
+    "order": 6
+  }
+]

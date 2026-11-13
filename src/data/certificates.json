@@ -1,0 +1,19 @@
+[
+  {
+    "title": {
+      "uk": "GoIT — Fullstack Developer",
+      "en": "GoIT Fullstack Developer Program"
+    },
+    "description": {
+      "uk": "Завершено програму Fullstack Developer — 872 години.",
+      "en": "Completed the GoIT Fullstack Developer program — 872 hours."
+    },
+    "issuer": "GoIT",
+    "durationHours": 872,
+    "date": null,
+    "url": null,
+    "file": null,
+    "order": 1,
+    "published": true
+  }
+]

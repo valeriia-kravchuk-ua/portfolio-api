@@ -1,0 +1,26 @@
+{
+  "key": "main",
+  "items": [
+    {
+      "label": {
+        "uk": "Про мене",
+        "en": "About"
+      },
+      "target": "#about"
+    },
+    {
+      "label": {
+        "uk": "Проєкти",
+        "en": "Work"
+      },
+      "target": "#projects"
+    },
+    {
+      "label": {
+        "uk": "Контакти",
+        "en": "Contacts"
+      },
+      "target": "#contacts"
+    }
+  ]
+}

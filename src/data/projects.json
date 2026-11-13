@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "il-makiage",
+    "title": {
+      "uk": "IL MAKIAGE",
+      "en": "IL MAKIAGE"
+    },
+    "subtitle": {
+      "uk": null,
+      "en": null
+    },
+    "description": {
+      "uk": null,
+      "en": null
+    },
+    "technologies": [
+      "React",
+      "TypeScript",
+      "MongoDB"
+    ],
+    "githubUrl": null,
+    "liveUrl": null,
+    "previewImage": null,
+    "previewVideo": null,
+    "accentColor": null,
+    "order": 1,
+    "published": true
+  },
+  {
+    "slug": "hpc-project",
+    "title": {
+      "uk": "HPC-проєкт",
+      "en": "HPC Project"
+    },
+    "subtitle": {
+      "uk": null,
+      "en":null
+    },
+    "description": {
+      "uk": null,
+      "en": null
+    },
+    "technologies": [],
+    "githubUrl": null,
+    "liveUrl": null,
+    "previewImage": null,
+    "previewVideo": null,
+    "accentColor": null,
+    "order": 2,
+    "published": true
+  }
+]

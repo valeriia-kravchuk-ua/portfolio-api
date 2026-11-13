@@ -1,0 +1,68 @@
+{
+  "name": "Valeriia Kravchuk",
+  "role": {
+    "uk": "Fullstack-розробниця",
+    "en": "Fullstack Developer"
+  },
+  "availability": {
+    "uk": "Відкрита до нових пропозицій",
+    "en": "Available for work"
+  },
+  "heroDescription": {
+    "uk": "Створюю швидкі та масштабовані вебзастосунки з React, Next.js і Node.js.",
+    "en": "Building fast, scalable web applications with React, Next.js & Node.js."
+  },
+  "about": {
+    "title": {
+      "uk": "Про мене",
+      "en": "About Me"
+    },
+    "description": {
+      "uk": "Спеціалізуюся на сучасній frontend-розробці з React і Next.js, а також створюю backend-сервіси з Node.js.",
+      "en": "I specialize in modern frontend development with React and Next.js while also building backend services with Node.js."
+    },
+    "focus": {
+      "uk": "Мій фокус — чиста архітектура, продуктивність та інтуїтивно зрозумілий користувацький досвід.",
+      "en": "My focus is clean architecture, performance and intuitive user experience."
+    }
+  },
+  "heroActions": [
+    {
+      "label": {
+        "uk": "Переглянути проєкти",
+        "en": "View Projects"
+      },
+      "target": "#projects"
+    },
+    {
+      "label": {
+        "uk": "Зв’язатися зі мною",
+        "en": "Contact Me"
+      },
+      "target": "#contacts"
+    }
+  ],
+  "navigation": [
+    {
+      "label": {
+        "uk": "Про мене",
+        "en": "About"
+      },
+      "target": "#about"
+    },
+    {
+      "label": {
+        "uk": "Роботи",
+        "en": "Work"
+      },
+      "target": "#work"
+    },
+    {
+      "label": {
+        "uk": "Контакти",
+        "en": "Contacts"
+      },
+      "target": "#contacts"
+    }
+  ]
+}

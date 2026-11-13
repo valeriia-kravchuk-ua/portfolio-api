@@ -1,0 +1,39 @@
+[
+  {
+    "company": "Oddity",
+    "position": {
+      "uk": "Fullstack-розробниця",
+      "en": "Fullstack Developer"
+    },
+    "startDate": "2025-01",
+    "endDate": "2026-05",
+    "technologies": [
+      "React",
+      "Next.js",
+      "Angular",
+      "TypeScript",
+      "Tailwind",
+      "MongoDB"
+    ],
+    "responsibilities": [
+      {
+        "uk": "Створювала інтерактивні beauty quiz-застосунки з використанням React і Next.js.",
+        "en": "Built interactive beauty quiz applications using React and Next.js."
+      },
+      {
+        "uk": "Розробляла повторно використовувані UI-компоненти відповідно до спільної дизайн-системи.",
+        "en": "Developed reusable UI components following a shared design system."
+      },
+      {
+        "uk": "Інтегрувала REST API та backend-сервіси з Node.js.",
+        "en": "Integrated REST APIs and backend services with Node.js."
+      },
+      {
+        "uk": "Оптимізувала продуктивність застосунків і покращувала користувацький досвід.",
+        "en": "Optimized application performance and improved user experience."
+      }
+    ],
+    "order": 1,
+    "published": true
+  }
+]
